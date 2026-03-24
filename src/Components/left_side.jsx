@@ -3,7 +3,7 @@ import React from 'react'
 const Topic = () => {
     return (
         <div className='w-3/7 h-screen bg-purple-500 p-5 font-mono text-black flex flex-col'>
-            <div className='flex text-2xl font-semibold'>Idea.exe</div>
+            <div className='flex text-2xl font-semibold'>😵‍💫 Idea.exe</div>
 
             <div className='flex flex-1 items-center justify-center'>
                 <div className='flex w-full max-w-md flex-col gap-5'>
